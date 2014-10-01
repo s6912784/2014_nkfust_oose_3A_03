@@ -19,29 +19,29 @@
 ##肆、組員名單＆工作分配：##
 <table>
   <tr>
-    <td aling="center">組員姓名</td>
-    <td aling="center">學號</td>
-    <td aling="center">工作分配</td>
+    <td>組員姓名</td>
+    <td>學號</td>
+    <td>工作分配</td>
   </tr>
   <tr>
-    <td aling="center">林郁璇</td>
-    <td aling="center">0124005</td>
-    <td aling="center">工作分配</td>
+    <td>林郁璇</td>
+    <td>0124005</td>
+    <td>工作分配</td>
   </tr>
   <tr>
-    <td aling="center">陳思芸</td>
-    <td aling="center">0124009</td>
-    <td aling="center">工作分配</td>
+    <td>陳思芸</td>
+    <td>0124009</td>
+    <td>工作分配</td>
   </tr>
   <tr>
-    <td aling="center">許爾庭</td>
-    <td aling="center">0124037</td>
-    <td aling="center">工作分配</td>
+    <td>許爾庭</td>
+    <td>0124037</td>
+    <td>工作分配</td>
   </tr>
   <tr>
-    <td aling="center">許茗惠</td>
-    <td aling="center">0124507</td>
-    <td aling="center">工作分配</td>
+    <td>許茗惠</td>
+    <td>0124507</td>
+    <td>工作分配</td>
   </tr>
 </table>
 2014.10.1 將會更新完成
