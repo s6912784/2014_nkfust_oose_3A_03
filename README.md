@@ -19,7 +19,7 @@
 ##肆、組員名單＆工作分配：##
 <table>
   <tr>
-    <td>組員姓名</td>
+    <td aling="center">組員姓名</td>
     <td>學號</td>
     <td>工作分配</td>
   </tr>
