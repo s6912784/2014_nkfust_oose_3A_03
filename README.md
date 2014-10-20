@@ -171,13 +171,8 @@
 <img src="https://images.plurk.com/2gCY5LVCKc3nsgG3KCBgFa.jpg">
 <img src="https://images.plurk.com/12NFu214v0qlI5AqBGROfN.jpg">
 <img src="https://images.plurk.com/64cqE4RljguN8brDWFP6X5.jpg">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://images.plurk.com/7CX5vwHc2fEHrBxZ8XbNKE.jpg">
+<img src="https://images.plurk.com/NqqUM0Z8MewCkhbh89kTd.jpg">
 
-2014.10.6 更新完成
+2014.10.20 更新完成
 
