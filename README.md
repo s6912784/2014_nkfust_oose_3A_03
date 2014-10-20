@@ -1,5 +1,3 @@
-
-
 #資3A 系統分析與設計 小組 第三組#
 
 ##壹、系統名稱：Loveing Beautiful (美妝比價網)<br>##
@@ -148,5 +146,7 @@
      <td>自動備份現有資料庫資料記錄。</td>
    </tr>
 </table>
+
+<img src="https://images.plurk.com/1jEBeAGGZbeKY2oxd9bCpy.jpg">
 2014.10.6 更新完成
 
