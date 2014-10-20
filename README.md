@@ -1,3 +1,4 @@
+
 #資3A 系統分析與設計 小組 第三組#
 
 ##壹、系統名稱：Loveing Beautiful (美妝比價網)<br>##
@@ -149,4 +150,4 @@
    </tr>
 </table>
 2014.10.6 更新完成
-<img src="https://images.plurk.com/7mfKNooyHRQh4kVorYxqdM.jpg">
+
