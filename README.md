@@ -154,14 +154,11 @@
 <img src="https://images.plurk.com/tm51vKyE4nj640hzacmgr.jpg">
 <img src="https://images.plurk.com/7Gw5Buoz4WtDD5IbXnmj3x.jpg">
 <img src="https://images.plurk.com/3kGte2CXPkkYHVMkVoXIW0.jpg">
-<img src="https://images.plurk.com/43Cm10UmmdSywuaVAOLvh0.jpg"> 12
+<img src="https://images.plurk.com/43Cm10UmmdSywuaVAOLvh0.jpg">
 <img src="https://images.plurk.com/6WvN1eHvzrMsI3rkmL1cZ9.jpg">
 <img src="https://images.plurk.com/6HLzPm7VYg3YWFWkHeu6RL.jpg">
 <img src="https://images.plurk.com/3qytD8gKqMOkgfe1BYAiql.jpg">
 <img src="https://images.plurk.com/7Lgl1AwaNnZKRyLJ89f17a.jpg">
-<img src="https://images.plurk.com/79Lm66hJbU8Rsm1z8hgApT.jpg">
-<img src="https://images.plurk.com/2XXxUeuixDzx3byfAFjUFv.jpg">
-<img src="https://images.plurk.com/6E5X1XRYjMyZNG6397Weql.jpg">
 <img src="">
 <img src="">
 <img src="">
