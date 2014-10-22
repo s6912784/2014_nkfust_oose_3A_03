@@ -1,5 +1,5 @@
 <img src="https://images.plurk.com/1pkYJosinJ47cjuqzvCMir.jpg">
-<img src="https://images.plurk.com/7AYHxh6PuVkUnPhwPXYSsg.jpg">
+<img src="https://images.plurk.com/3dLcPERYotPGOuzCqURnl5.jpg">
 <img src="https://images.plurk.com/62O0ketWq446Q9HIotXdk9.jpg">
 <img src="https://images.plurk.com/1PkKUvciyApsmLRHxPfcpv.jpg">
 <img src="https://images.plurk.com/3BGdM0e7HZJ3skiyf2QrAt.jpg">
