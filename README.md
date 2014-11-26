@@ -63,5 +63,5 @@
 <img src="https://images.plurk.com/4OAAeigCrJxJoGPAg84vBN.jpg">
 <img src="https://images.plurk.com/3G5q9XK472l3nQzrRsvSxm.jpg">
 
-2014.10.21 更新完成
+2014.11.26 更新完成
 
