@@ -63,7 +63,11 @@
 <img src="https://images.plurk.com/6HkB0pDsYf0ZTTVJxMNClQ.jpg">
 <img src="https://images.plurk.com/4OAAeigCrJxJoGPAg84vBN.jpg">
 <img src="https://images.plurk.com/3G5q9XK472l3nQzrRsvSxm.jpg">
+-
+<img src="https://images.plurk.com/2SjS4n24tnF3QzWCf2fUaO.jpg">
+<img src="https://images.plurk.com/7elS3ZD8xvv1njvJPXNmSY.jpg">
+<img src="https://images.plurk.com/5pkx15xVDmjdiugjuOxm9J.jpg">
 
 2014.11.26 更新完成
 
-到底學了什麼啊
+
