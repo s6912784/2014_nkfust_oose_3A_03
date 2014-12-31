@@ -68,6 +68,8 @@
 <img src="https://images.plurk.com/7elS3ZD8xvv1njvJPXNmSY.jpg">
 <img src="https://images.plurk.com/5pkx15xVDmjdiugjuOxm9J.jpg">
 
+
+<a href='http://xpy.calfhost.com/shaning/system/'>連結</a>
 2014.11.26 更新完成
 
 
