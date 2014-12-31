@@ -106,8 +106,9 @@
 <img src="https://images.plurk.com/5pkx15xVDmjdiugjuOxm9J.jpg">
 
 <br>
-<a href='http://xpy.calfhost.com/shaning/system/'>連結</a>
+網站連結:
+<a href='http://xpy.calfhost.com/shaning/system/'>點我前往</a>
 <br>
-2014.11.26 更新完成
+2014.12.31更新完成
 
 
