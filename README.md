@@ -1,10 +1,39 @@
 <img src="https://images.plurk.com/1pkYJosinJ47cjuqzvCMir.jpg">
 <img src="https://images.plurk.com/3dLcPERYotPGOuzCqURnl5.jpg">
 <img src="https://images.plurk.com/62O0ketWq446Q9HIotXdk9.jpg"><br>
-<table>
+<table border="1">
+  <tr align="center">
+    <td>姓名</td>
+    <td>學號</td>
+    <td>工作分配</td>
+  </tr>
   <tr>
-    <td>123</td>
-    <td>123</td>
+    <td>林郁璇</td>
+    <td>0124005</td>
+    <td>
+    	後台架構及核心程式架構
+    </td>
+  </tr>
+  <tr>
+    <td>陳思芸</td>
+    <td>0124009</td>
+    <td>
+    	網站頁面美工管理
+    </td>
+  </tr>
+  <tr>
+    <td>許爾庭</td>
+    <td>0124037</td>
+    <td>
+    	前台架構
+    </td>
+  </tr>
+  <tr>
+    <td>許茗惠</td>
+    <td>0124507</td>
+    <td>
+    	資料庫架構
+    </td>
   </tr>
 </table>
 
