@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+#all{width:975px;
+     height:1055x;
+	 background:#FFF;
+	 border-left:1px solid #999;
+	 border-right:1px solid #999;
+	 margin:auto;
+}
+#title{width:975px;
+   	   height:120px;
+	   border-bottom:1px solid #CCC;	 
+}
+#logo{width:250px;
+	  height:120px;
+	  float:left;
+}
+#h{width:725px;
+   height:120px;
+   float:right;
+}
+#menu1{width:725px;
+	   height:55px;
+}
+#a1{width:725px;
+	height:38px;	
+}
+#menu2{width:725px;
+	   height:30px;	
+}
+#ap{width:975px;
+	height:210px;
+}
+#l{width:250px;
+	height:210px;
+	float:left;
+}
+#r{width:720px;
+	height:210px;
+	float:right;
+}
+#for{width:975px;
+	 height:576px;
+}
+#menu3{width:250px;
+	   height:576px;
+	   float:left;
+}
+#main{width:725px;
+	  height:576px;
+	  float:right;
+	  overflow:auto;
+}
+#foot{width:975px;
+	  height:124px;
+}
+
+
+
+-->
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: #09C;
+}
+a:active {
+	text-decoration: none;
+	color: #000;
+}
+
+-->   menu
+ul, li {
+	list-style: none;
+	
+}
+#qaContent {
+	width: 150px;
+	margin:auto;
+}
+
+#qaContent ul.accordionPart {
+	/*margin: 5px 5px 5px 5px;*/
+	width:150px;
+}
+#qaContent ul.accordionPart li {
+	margin-top: 10px;
+}
+#qaContent ul.accordionPart li .qa_title {
+	color: #000;
+	padding-left:-50px;
+}
+#qaContent ul.accordionPart li .qa_title_on {
+	color:#3C3;
+}
+#qaContent ul.accordionPart li .qa_content {
+	margin-top: 10px;
+	padding-left: 4px;
+	color: #0F0;
+}
+
+-->  廣告
+a img {
+		border: none;
+	}
+	#abgne_fade_pic {
+		position: relative;
+		margin:auto;
+		width: 700px;
+		height: 350px;
+		border: 1px solid #ccc;
+	}
+	#abgne_fade_pic a.ad {
+		position: absolute;	/* 讓圖片疊在一起 */
+	}
+	#abgne_fade_pic .control {
+		position: absolute;
+		right: 10px;
+		bottom: 10px;
+	}
+	#abgne_fade_pic .control a {
+		display: inline-block;
+		padding: 3px;
+		margin: 0 3px;
+		width: 16px;
+		color: #fff;
+		background: #000;
+		text-align: center;
+		font-size: 16px;
+		text-decoration: none;
+	}
+	#abgne_fade_pic .control a.on {
+		font-weight: bold;
+		color: #f00;
+	}
